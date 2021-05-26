@@ -1,1 +1,2 @@
-Nothing to write here. Just learning stuff
+title: "day 2"
+date: 2021-05-26
